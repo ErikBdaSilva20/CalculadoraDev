@@ -1,0 +1,35 @@
+* {
+    font-family: "Libre Caslon Text", serif;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('./assets/omega.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh; /* Garante a altura total da tela */
+    margin: 0;
+    position: relative; /* Necessário para o pseudo-elemento estar posicionado corretamente */
+}
+
+body::after {
+    content: ''; /* Necessário para criar o pseudo-elemento */
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5); /* Camada de sobreposição */
+    z-index: -1; /* Fica atrás do conteúdo */
+}
+
+    
+.Calculator {
+    background-color: rgba(255, 0, 0, 0.498);
+    border-radius: 20px;
+    padding: 20px;
+}
