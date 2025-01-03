@@ -25,16 +25,9 @@
 
 
 
-<h1 class="section-title">🌐 Links</h1>
-<ul class="links-list">
-    <li><strong>Repositório no GitHub:</strong> <a href="https://github.com/ErikBdaSilva20/Conversor-de-Moedas">Clique Aqui</a></li>
-    <li><strong>Projeto no GitHub Pages:</strong> <a href="https://erikbdasilva20.github.io/CalculadoraDev">Visualizar Projeto</a></li>
+<h2>🌟 Linkedin e GitHub Page:</h2>
+<ul>
+  <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/erik-borges-silva/" target="_blank">https://www.linkedin.com/in/erik-borges-silva/</a></li>
+  <li>🌐 <strong>Projeto no GitHub Pages:</strong> <a href="https://erikbdasilva20.github.io/CalculadoraDev/" target="_blank">https://erikbdasilva20.github.io/CalculadoraDev/</a></li>
 </ul>
 
-<h1 class="section-title">📌 Notas Adicionais</h1>
-<p class="notes">
-    Este projeto é ideal para quem está começando no desenvolvimento web e quer aprender a integrar <strong>HTML</strong>, 
-    <strong>CSS</strong> e <strong>JavaScript</strong> para criar algo funcional.
-</p>
-
-<p class="next-steps">🔗 <strong>Próximos Passos:</strong> Adicionar funcionalidades como o cálculo de porcentagens ou raízes quadradas para torná-la ainda mais útil!</p>
