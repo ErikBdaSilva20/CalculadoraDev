@@ -1,4 +1,4 @@
-<h1 class="project-title">🧮 Calculadora Omega</h1>
+<h1 class="project-title">🧮 Calculadora básica</h1>
 
 <h1 class="section-title">✨ Sobre o Projeto</h1>
 <p class="project-description">
