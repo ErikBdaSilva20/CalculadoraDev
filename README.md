@@ -4,7 +4,7 @@
 <p class="project-description">
     Esta é uma calculadora simples desenvolvida para realizar operações básicas como adição, subtração, multiplicação e divisão. 
     O projeto foi criado para reforçar conceitos fundamentais de <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, 
-    com foco na funcionalidade e em um design simples, mas elegante.
+    com foco na funcionalidade.
 </p>
 
 <h1 class="section-title">⚙️ Como Funciona</h1>
