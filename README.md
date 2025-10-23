@@ -25,9 +25,12 @@
 
 
 
-<h2>🌟 Linkedin e GitHub Page:</h2>
+<h2>🌟 Links Úteis:</h2>
 <ul>
-  <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/erik-borges-silva/" target="_blank">https://www.linkedin.com/in/erik-borges-silva/</a></li>
-  <li>🌐 <strong>Projeto no GitHub Pages:</strong> <a href="https://erikbdasilva20.github.io/CalculadoraDev/" target="_blank">https://erikbdasilva20.github.io/CalculadoraDev/</a></li>
+  <li>📂 Repositório no GitHub: https://github.com/ErikBdaSilva20/CalculadoraDev</li>
+    
+  <li>🌐 Projeto no GitHub Pages: https://erikbdasilva20.github.io/CalculadoraDev</li>
+
+  <li>🔗 Perfil no linkedin: www.linkedin.com/in/erik-borgessilva20</li>
 </ul>
 
