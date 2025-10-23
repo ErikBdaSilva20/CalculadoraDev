@@ -25,12 +25,10 @@
 
 
 
-<h2>🌟 Links Úteis:</h2>
-<ul>
-  <li>📂 Repositório no GitHub: https://github.com/ErikBdaSilva20/CalculadoraDev</li>
-    
-  <li>🌐 Projeto no GitHub Pages: https://erikbdasilva20.github.io/CalculadoraDev</li>
+<h2>🌟 Links</h2>
 
-  <li>🔗 Perfil no linkedin: www.linkedin.com/in/erik-borgessilva20</li>
-</ul>
+📂 Repositório no GitHub: [https://github.com/ErikBdaSilva20/CalculadoraDev](https://github.com/ErikBdaSilva20/CalculadoraDev)
 
+🌐 Projeto no GitHub Pages: [https://erikbdasilva20.github.io/CalculadoraDev](https://erikbdasilva20.github.io/CalculadoraDev)
+
+🔗 Perfil no LinkedIn: [https://www.linkedin.com/in/erik-borgessilva20](https://www.linkedin.com/in/erik-borgessilva20)
